@@ -1,0 +1,12 @@
+name = "bluedice"
+compatibility_date = "2026-07-04"
+main = ".output/server/index.mjs"
+workers_dev = false
+
+[assets]
+directory = ".output/public"
+binding = "ASSETS"
+
+[[routes]]
+pattern = "bluedice.savykids.com"
+custom_domain = true
