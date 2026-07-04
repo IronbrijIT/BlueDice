@@ -1,7 +1,7 @@
-//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-4PL46hSw.js
+//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-DTm117M2.js
 var tsrStartManifest = () => ({ routes: {
 	__root__: {
-		filePath: "D:/bluedice/src/routes/__root.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/__root.tsx",
 		children: [
 			"/",
 			"/achievements",
@@ -33,7 +33,7 @@ var tsrStartManifest = () => ({ routes: {
 		} }]
 	},
 	"/": {
-		filePath: "D:/bluedice/src/routes/index.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/index.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/routes-B_JV6052.js",
@@ -43,7 +43,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/achievements": {
-		filePath: "D:/bluedice/src/routes/achievements.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/achievements.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/achievements-B74XOg9V.js",
@@ -55,7 +55,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/calendar": {
-		filePath: "D:/bluedice/src/routes/calendar.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/calendar.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/calendar-CWyjP95X.js",
@@ -65,7 +65,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/favorites": {
-		filePath: "D:/bluedice/src/routes/favorites.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/favorites.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/favorites-DH7Iez7Z.js",
@@ -76,7 +76,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/history": {
-		filePath: "D:/bluedice/src/routes/history.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/history.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/history-DzG4Zn2A.js",
@@ -87,7 +87,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/login": {
-		filePath: "D:/bluedice/src/routes/login.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/login.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/login-DjMqDL7c.js",
@@ -97,7 +97,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/n8n": {
-		filePath: "D:/bluedice/src/routes/n8n.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/n8n.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/n8n-B3P5OPH7.js",
@@ -108,7 +108,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/n8n-notification": {
-		filePath: "D:/bluedice/src/routes/n8n-notification.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/n8n-notification.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/n8n-notification-C1iRmkBG.js",
@@ -119,7 +119,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/onboarding": {
-		filePath: "D:/bluedice/src/routes/onboarding.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/onboarding.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/onboarding-SulNii7P.js",
@@ -128,7 +128,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/profile": {
-		filePath: "D:/bluedice/src/routes/profile.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/profile.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/profile-D2NNBhyb.js",
@@ -140,7 +140,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/reflection": {
-		filePath: "D:/bluedice/src/routes/reflection.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/reflection.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/reflection-BVIr4ehc.js",
@@ -151,7 +151,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/preview/$feature": {
-		filePath: "D:/bluedice/src/routes/preview.$feature.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/preview.$feature.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/preview._feature-Ciu6ltxy.js",
@@ -161,7 +161,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/settings/notifications": {
-		filePath: "D:/bluedice/src/routes/settings.notifications.tsx",
+		filePath: "D:/MYPC/Downloads/bluedice/bluedice/src/routes/settings.notifications.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/settings.notifications--Edx6oD8.js",
